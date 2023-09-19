@@ -1,1 +1,1 @@
-console.log('ercan kaval')
+console.log('ercan kaval');
